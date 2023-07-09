@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "better_certus_quartz:block/deepslate_charged_certus_quartz_ore"
+  }
+}

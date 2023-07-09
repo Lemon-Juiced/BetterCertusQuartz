@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "better_certus_quartz:certus_quartz_ore",
+    "better_certus_quartz:deepslate_certus_quartz_ore",
+    "better_certus_quartz:charged_certus_quartz_ore",
+    "better_certus_quartz:deepslate_charged_certus_quartz_or"
+  ]
+}

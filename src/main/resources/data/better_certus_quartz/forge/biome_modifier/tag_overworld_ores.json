@@ -1,0 +1,11 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#is_overworld",
+  "features": [
+    "better_certus_quartz:certus_quartz_ore",
+    "better_certus_quartz:deepslate_certus_quartz_ore",
+    "better_certus_quartz:charged_certus_quartz_ore",
+    "better_certus_quartz:deepslate_charged_certus_quartz_ore"
+  ],
+  "step": "underground_ores"
+}

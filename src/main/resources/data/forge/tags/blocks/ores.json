@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:ores/certus_quartz",
+    "#forge:ores/charged_certus_quartz"
+  ]
+}
