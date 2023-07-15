@@ -1,5 +1,9 @@
 {
+  "block.better_certus_quartz.certus_quartz_ore": "Certus Quartz Ore",
+  "block.better_certus_quartz.deepslate_certus_quartz_ore": "Deepslate Certus Quartz Ore",
 
+  "block.better_certus_quartz.charged_certus_quartz_ore": "Charged Certus Quartz Ore",
+  "block.better_certus_quartz.deepslate_charged_certus_quartz_ore": "Deepslate Charged Certus Quartz Ore",
 
   "itemGroup.better_certus_quartz": "Better Certus Quartz"
 }
