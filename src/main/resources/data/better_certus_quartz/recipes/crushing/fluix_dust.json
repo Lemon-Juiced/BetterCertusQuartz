@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:gems/fluix_crystal"
+    },
+    {
+      "tag": "forge:ore_crushing_hammers"
+    }
+  ],
+  "result": {
+    "item": "better_certus_quartz:fluix_crystal_dust",
+    "count": 1
+  }
+}

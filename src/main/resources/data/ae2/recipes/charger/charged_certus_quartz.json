@@ -1,0 +1,9 @@
+{
+  "type": "ae2:charger",
+  "ingredient": {
+    "item": "lemon_core:certus_quartz"
+  },
+  "result": {
+    "item": "lemon_core:charged_certus_quartz"
+  }
+}

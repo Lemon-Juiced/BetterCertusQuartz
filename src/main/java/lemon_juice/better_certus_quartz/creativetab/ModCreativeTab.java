@@ -2,6 +2,7 @@ package lemon_juice.better_certus_quartz.creativetab;
 
 import lemon_juice.better_certus_quartz.BetterCertusQuartz;
 import lemon_juice.better_certus_quartz.block.ModBlocks;
+import lemon_juice.better_certus_quartz.item.ModItems;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
@@ -21,6 +22,10 @@ public class ModCreativeTab {
 
     public static void registerTabs(BuildCreativeModeTabContentsEvent event) {
         if (event.getTab() == BETTER_CERTUS_QUARTZ_TAB.get()) {
+            event.accept(ModItems.CERTUS_QUARTZ_DUST.get());
+            event.accept(ModItems.FLUIX_CRYSTAL_DUST.get());
+            event.accept(ModItems.NETHER_QUARTZ_DUST.get());
+
             event.accept(ModBlocks.CERTUS_QUARTZ_ORE.get());
             event.accept(ModBlocks.DEEPSLATE_CERTUS_QUARTZ_ORE.get());
             event.accept(ModBlocks.CHARGED_CERTUS_QUARTZ_ORE.get());

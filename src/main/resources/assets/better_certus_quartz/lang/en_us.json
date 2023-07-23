@@ -1,4 +1,8 @@
 {
+  "item.better_certus_quartz.certus_quartz_dust": "Certus Quartz Dust",
+  "item.better_certus_quartz.fluix_crystal_dust": "Fluix Crystal Dust",
+  "item.better_certus_quartz.nether_crystal_dust": "Nether Quartz Dust",
+
   "block.better_certus_quartz.certus_quartz_ore": "Certus Quartz Ore",
   "block.better_certus_quartz.deepslate_certus_quartz_ore": "Deepslate Certus Quartz Ore",
 
