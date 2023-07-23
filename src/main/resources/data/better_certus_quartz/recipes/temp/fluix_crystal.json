@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "lemon_core:charged_certus_quartz"
+    },
+    {
+      "item": "lemon_core:fluix_dust"
+    },
+    {
+      "tag": "forge:water"
+    }
+  ],
+  "result": {
+    "item": "lemon_core:fluix_crystal",
+    "count": 1
+  }
+}

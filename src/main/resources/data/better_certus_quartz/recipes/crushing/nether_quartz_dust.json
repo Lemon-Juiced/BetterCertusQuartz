@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "tag": "forge:gems/nether_quartz"
+      "tag": "forge:gems/quartz"
     },
     {
       "tag": "forge:ore_crushing_hammers"
