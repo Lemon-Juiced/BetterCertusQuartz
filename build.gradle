@@ -83,7 +83,7 @@ dependencies {
     runtimeOnly fg.deobf("mezz.jei:jei-1.20.1-forge:15.0.0.15")
 
     // Lemon Core Dependency
-    runtimeOnly fg.deobf("curse.maven:lemon-core-840168:4863748")
+    runtimeOnly fg.deobf("curse.maven:lemon-core-840168:4865985")
 
     // AE2
     runtimeOnly fg.deobf("curse.maven:applied-energistics-2-223794:4857895")

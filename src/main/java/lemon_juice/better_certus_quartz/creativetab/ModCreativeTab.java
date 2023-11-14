@@ -22,10 +22,6 @@ public class ModCreativeTab {
 
     public static void registerTabs(BuildCreativeModeTabContentsEvent event) {
         if (event.getTab() == BETTER_CERTUS_QUARTZ_TAB.get()) {
-            event.accept(ModItems.CERTUS_QUARTZ_DUST.get());
-            event.accept(ModItems.FLUIX_CRYSTAL_DUST.get());
-            event.accept(ModItems.NETHER_QUARTZ_DUST.get());
-
             event.accept(ModBlocks.CERTUS_QUARTZ_ORE.get());
             event.accept(ModBlocks.DEEPSLATE_CERTUS_QUARTZ_ORE.get());
             event.accept(ModBlocks.CHARGED_CERTUS_QUARTZ_ORE.get());

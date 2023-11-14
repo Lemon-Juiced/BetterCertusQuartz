@@ -2,11 +2,11 @@
   "type": "ae2:inscriber",
   "ingredients": {
     "middle": {
-      "tag": "forge:gems/nether_quartz"
+      "item": "lemon_core:fluix_crystal"
     }
   },
   "mode": "inscribe",
   "result": {
-    "item": "better_certus_quartz:nether_quartz_dust"
+    "item": "lemon_core:fluix_crystal_dust"
   }
 }
