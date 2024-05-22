@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "a": {
+      "item": "lemon_core:certus_quartz"
+    }
+  },
+  "pattern": [
+    "aa ",
+    "aa ",
+    "   "
+  ],
+  "result": {
+    "count": 1,
+    "item": "ae2:quartz_block"
+  }
+}
