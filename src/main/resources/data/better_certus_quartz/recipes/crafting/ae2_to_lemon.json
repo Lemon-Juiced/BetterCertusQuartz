@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "a": {
+      "tag": "forge:gems/fluix"
+    }
+  },
+  "pattern": [
+    "aaa",
+    "   ",
+    "aaa"
+  ],
+  "result": {
+    "count": 6,
+    "item": "lemon_core:fluix_crystal"
+  }
+}
