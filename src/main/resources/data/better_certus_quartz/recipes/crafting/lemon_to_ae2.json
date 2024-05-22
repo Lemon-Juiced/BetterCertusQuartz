@@ -6,12 +6,12 @@
     }
   },
   "pattern": [
-    "a a",
-    "a a",
-    "a a"
+    "aa ",
+    "aa ",
+    "   "
   ],
   "result": {
-    "count": 6,
-    "item": "ae2:fluix_crystal"
+    "count": 1,
+    "item": "ae2:fluix_block"
   }
 }
