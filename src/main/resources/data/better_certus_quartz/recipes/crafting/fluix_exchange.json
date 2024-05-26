@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "a": {
+      "tag": "forge:gems/fluix"
+    }
+  },
+  "pattern": [
+    "aa ",
+    "aa ",
+    "   "
+  ],
+  "result": {
+    "count": 1,
+    "item": "ae2:fluix_block"
+  }
+}
